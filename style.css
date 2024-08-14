@@ -7,3 +7,13 @@ body {
     max-width: 960px;
     margin: 0 auto;
 }
+
+text {
+    font-size: 10px;
+    fill: #555;
+}
+
+rect:hover {
+    stroke: #000;
+    stroke-width: 1px;
+}
