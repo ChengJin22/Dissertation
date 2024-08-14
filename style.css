@@ -4,25 +4,6 @@ body {
 }
 
 #calendar {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.day {
-    border: 1px solid #ccc;
-    width: 20px;
-    height: 20px;
-    margin: 2px;
-    cursor: pointer;
-    display: inline-block;
-    text-align: center;
-    line-height: 20px;
-}
-
-.day:hover {
-    background-color: #ddd;
-}
-
-#details {
-    margin-top: 20px;
+    max-width: 960px;
+    margin: 0 auto;
 }
