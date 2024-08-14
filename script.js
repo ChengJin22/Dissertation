@@ -10,10 +10,15 @@ function Calendar(data, {
   yFormat, // format specifier string for values (in the title)
   colors = d3.interpolatePiYG
 } = {}) {
+  console.log("Calendar function called"); // 确认函数被调用
+
   // Compute values.
   const X = d3.map(data, x);
   const Y = d3.map(data, y);
   const I = d3.range(X.length);
+  console.log("X values:", X); // 输出 X 值
+  console.log("Y values:", Y); // 输出 Y 值
+  console.log("Indices I:", I); // 输出 I 值
 
   const countDay = weekday === "sunday" ? i => i : i => (i + 6) % 7;
   const timeWeek = weekday === "sunday" ? d3.utcSunday : d3.utcMonday;
@@ -24,6 +29,7 @@ function Calendar(data, {
   // is zero, and we want symmetric difference around zero.
   const max = d3.quantile(Y, 0.9975, Math.abs);
   const color = d3.scaleSequential([-max, +max], colors).unknown("none");
+  console.log("Color scale created with max:", max); // 输出颜色比例尺的最大值
 
   // Construct formats.
   formatMonth = d3.utcFormat(formatMonth);
@@ -34,6 +40,10 @@ function Calendar(data, {
     title = i => {
       const dayData = data[i];
       const productTypes = dayData.productTypes ? dayData.productTypes.join(", ") : "No data";
+      console.log("Title for index", i, ":", `${formatDate(X[i])}
+Total Orders: ${dayData.totalOrders}
+Total Quantity: ${dayData.totalQuantity}
+Product Types: ${productTypes}`); // 打印每个索引的 title
       return `${formatDate(X[i])}
 Total Orders: ${dayData.totalOrders}
 Total Quantity: ${dayData.totalQuantity}
@@ -47,6 +57,7 @@ Product Types: ${productTypes}`;
   // Group the index by year, in reverse input order. (Assuming that the input is
   // chronological, this will show years in reverse chronological order.)
   const years = d3.groups(I, i => X[i].getUTCFullYear()).reverse();
+  console.log("Years data:", years); // 打印按年份分组的数据
 
   function pathMonth(t) {
     const d = Math.max(0, Math.min(weekDays, countDay(t.getUTCDay())));
@@ -117,5 +128,6 @@ Product Types: ${productTypes}`;
       .attr("y", -5)
       .text(formatMonth);
 
+  console.log("SVG created"); // 确认 SVG 创建成功
   return Object.assign(svg.node(), {scales: {color}});
 }
