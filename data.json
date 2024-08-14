@@ -188,7 +188,6 @@
             "Product_162",
             "Product_11",
             "Product_131",
-            NaN,
             "Product_74"
         ]
     },
@@ -197,7 +196,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 30810.0,
         "ProductTypes": [
-            NaN,
             "Product_142",
             "Product_103"
         ]
@@ -213,7 +211,6 @@
             "Product_41",
             "Product_116",
             "Product_80",
-            NaN,
             "Product_4",
             "Product_23"
         ]
@@ -241,7 +238,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 7146.0,
         "ProductTypes": [
-            NaN,
             "Product_107"
         ]
     },
@@ -277,7 +273,6 @@
         "TotalQuantity": 16925.0,
         "ProductTypes": [
             "Product_126",
-            NaN,
             "Product_161",
             "Product_131",
             "Product_80"
@@ -287,9 +282,7 @@
         "OrderDate": "2020-07-30",
         "TotalOrders": 4,
         "TotalQuantity": 18508.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-07-31",
@@ -354,8 +347,7 @@
             "Product_8",
             "Product_23",
             "Product_72",
-            "Product_38",
-            NaN
+            "Product_38"
         ]
     },
     {
@@ -371,7 +363,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 10106.8,
         "ProductTypes": [
-            NaN,
             "Product_74",
             "Product_4"
         ]
@@ -382,7 +373,6 @@
         "TotalQuantity": 6190.0,
         "ProductTypes": [
             "Product_38",
-            NaN,
             "Product_6"
         ]
     },
@@ -400,8 +390,7 @@
         "TotalQuantity": 11490.0,
         "ProductTypes": [
             "Product_160",
-            "Product_152",
-            NaN
+            "Product_152"
         ]
     },
     {
@@ -444,7 +433,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 4301.9,
         "ProductTypes": [
-            NaN,
             "Product_72"
         ]
     },
@@ -539,7 +527,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 42701.3,
         "ProductTypes": [
-            NaN,
             "Product_80",
             "Product_131",
             "Product_72",
@@ -595,7 +582,6 @@
         "TotalQuantity": 2159.2,
         "ProductTypes": [
             "Product_146",
-            NaN,
             "Product_38"
         ]
     },
@@ -633,7 +619,6 @@
         "TotalQuantity": 15609.1,
         "ProductTypes": [
             "Product_38",
-            NaN,
             "Product_23"
         ]
     },
@@ -642,7 +627,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 1420.7,
         "ProductTypes": [
-            NaN,
             "Product_72"
         ]
     },
@@ -650,16 +634,13 @@
         "OrderDate": "2020-09-25",
         "TotalOrders": 1,
         "TotalQuantity": 12910.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-09-26",
         "TotalOrders": 6,
         "TotalQuantity": 15422.1,
         "ProductTypes": [
-            NaN,
             "Product_74",
             "Product_131",
             "Product_72",
@@ -689,7 +670,6 @@
         "ProductTypes": [
             "Product_6",
             "Product_152",
-            NaN,
             "Product_133",
             "Product_4",
             "Product_38"
@@ -708,9 +688,7 @@
         "OrderDate": "2020-10-08",
         "TotalOrders": 2,
         "TotalQuantity": 149.6,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-10-10",
@@ -768,9 +746,7 @@
         "OrderDate": "2020-10-17",
         "TotalOrders": 1,
         "TotalQuantity": 2368.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-10-19",
@@ -788,7 +764,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 7780.8,
         "ProductTypes": [
-            NaN,
             "Product_4"
         ]
     },
@@ -797,8 +772,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 4984.0,
         "ProductTypes": [
-            "Product_132",
-            NaN
+            "Product_132"
         ]
     },
     {
@@ -808,7 +782,6 @@
         "ProductTypes": [
             "Product_112",
             "Product_151",
-            NaN,
             "Product_4",
             "Product_6",
             "Product_94",
@@ -822,7 +795,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 22943.1,
         "ProductTypes": [
-            NaN,
             "Product_142",
             "Product_133",
             "Product_157",
@@ -835,9 +807,7 @@
         "OrderDate": "2020-10-27",
         "TotalOrders": 1,
         "TotalQuantity": 22.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-10-28",
@@ -860,7 +830,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 802.0,
         "ProductTypes": [
-            NaN,
             "Product_14"
         ]
     },
@@ -899,7 +868,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 4653.6,
         "ProductTypes": [
-            NaN,
             "Product_4"
         ]
     },
@@ -908,7 +876,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 19687.2,
         "ProductTypes": [
-            NaN,
             "Product_133",
             "Product_131",
             "Product_23",
@@ -920,7 +887,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 4580.9,
         "ProductTypes": [
-            NaN,
             "Product_150",
             "Product_97"
         ]
@@ -940,9 +906,7 @@
         "OrderDate": "2020-11-18",
         "TotalOrders": 1,
         "TotalQuantity": 3220.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-11-19",
@@ -950,7 +914,6 @@
         "TotalQuantity": 6319.2,
         "ProductTypes": [
             "Product_132",
-            NaN,
             "Product_31",
             "Product_6",
             "Product_94",
@@ -971,7 +934,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 329.0,
         "ProductTypes": [
-            NaN,
             "Product_72"
         ]
     },
@@ -1007,7 +969,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 874.0,
         "ProductTypes": [
-            NaN,
             "Product_72",
             "Product_23"
         ]
@@ -1016,9 +977,7 @@
         "OrderDate": "2020-11-28",
         "TotalOrders": 1,
         "TotalQuantity": 2600.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-11-30",
@@ -1038,8 +997,7 @@
             "Product_9",
             "Product_62",
             "Product_11",
-            "Product_105",
-            NaN
+            "Product_105"
         ]
     },
     {
@@ -1066,7 +1024,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 5006.0,
         "ProductTypes": [
-            NaN,
             "Product_122",
             "Product_32"
         ]
@@ -1104,7 +1061,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 4069.0,
         "ProductTypes": [
-            NaN,
             "Product_14"
         ]
     },
@@ -1112,9 +1068,7 @@
         "OrderDate": "2020-12-12",
         "TotalOrders": 1,
         "TotalQuantity": 3280.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2020-12-14",
@@ -1148,7 +1102,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 8690.0,
         "ProductTypes": [
-            NaN,
             "Product_6",
             "Product_4"
         ]
@@ -1166,8 +1119,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 1450.0,
         "ProductTypes": [
-            "Product_11",
-            NaN
+            "Product_11"
         ]
     },
     {
@@ -1224,7 +1176,6 @@
         "TotalQuantity": 6747.25,
         "ProductTypes": [
             "Product_6",
-            NaN,
             "Product_140",
             "Product_72",
             "Product_8",
@@ -1255,7 +1206,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 9858.0,
         "ProductTypes": [
-            NaN,
             "Product_72"
         ]
     },
@@ -1276,7 +1226,6 @@
         "TotalQuantity": 12718.1,
         "ProductTypes": [
             "Product_131",
-            NaN,
             "Product_122",
             "Product_4",
             "Product_38"
@@ -1287,7 +1236,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 2888.0,
         "ProductTypes": [
-            NaN,
             "Product_155",
             "Product_4",
             "Product_112",
@@ -1327,7 +1275,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 14570.0,
         "ProductTypes": [
-            NaN,
             "Product_72"
         ]
     },
@@ -1345,7 +1292,6 @@
         "TotalQuantity": 17321.0,
         "ProductTypes": [
             "Product_133",
-            NaN,
             "Product_152",
             "Product_72",
             "Product_154",
@@ -1358,7 +1304,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 6676.2,
         "ProductTypes": [
-            NaN,
             "Product_146",
             "Product_4",
             "Product_8"
@@ -1378,7 +1323,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 1166.0,
         "ProductTypes": [
-            NaN,
             "Product_71",
             "Product_4"
         ]
@@ -1388,7 +1332,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 15923.0,
         "ProductTypes": [
-            NaN,
             "Product_6",
             "Product_94",
             "Product_8"
@@ -1435,16 +1378,13 @@
         "OrderDate": "2021-01-30",
         "TotalOrders": 3,
         "TotalQuantity": 23245.4,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2021-02-02",
         "TotalOrders": 7,
         "TotalQuantity": 20082.0,
         "ProductTypes": [
-            NaN,
             "Product_4",
             "Product_6",
             "Product_72"
@@ -1473,8 +1413,7 @@
         "TotalQuantity": 1358.0,
         "ProductTypes": [
             "Product_14",
-            "Product_72",
-            NaN
+            "Product_72"
         ]
     },
     {
@@ -1491,7 +1430,6 @@
         "TotalQuantity": 2882.0,
         "ProductTypes": [
             "Product_14",
-            NaN,
             "Product_72",
             "Product_94",
             "Product_4"
@@ -1502,8 +1440,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 78.7,
         "ProductTypes": [
-            "Product_72",
-            NaN
+            "Product_72"
         ]
     },
     {
@@ -1607,7 +1544,6 @@
         "TotalQuantity": 66913.0,
         "ProductTypes": [
             "Product_80",
-            NaN,
             "Product_131",
             "Product_99",
             "Product_151",
@@ -1624,8 +1560,7 @@
         "TotalQuantity": 520.0,
         "ProductTypes": [
             "Product_8",
-            "Product_4",
-            NaN
+            "Product_4"
         ]
     },
     {
@@ -1635,7 +1570,6 @@
         "ProductTypes": [
             "Product_41",
             "Product_6",
-            NaN,
             "Product_71",
             "Product_4",
             "Product_32",
@@ -1659,7 +1593,6 @@
             "Product_74",
             "Product_14",
             "Product_106",
-            NaN,
             "Product_131",
             "Product_18"
         ]
@@ -1671,8 +1604,7 @@
         "ProductTypes": [
             "Product_112",
             "Product_107",
-            "Product_72",
-            NaN
+            "Product_72"
         ]
     },
     {
@@ -1736,7 +1668,6 @@
         "TotalQuantity": 3338.5,
         "ProductTypes": [
             "Product_14",
-            NaN,
             "Product_4",
             "Product_6"
         ]
@@ -1746,7 +1677,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 1175.0,
         "ProductTypes": [
-            NaN,
             "Product_72",
             "Product_4",
             "Product_6"
@@ -1763,8 +1693,7 @@
             "Product_9",
             "Product_4",
             "Product_150",
-            "Product_38",
-            NaN
+            "Product_38"
         ]
     },
     {
@@ -1802,7 +1731,6 @@
         "TotalQuantity": 8969.0,
         "ProductTypes": [
             "Product_14",
-            NaN,
             "Product_23",
             "Product_3",
             "Product_130",
@@ -1825,8 +1753,7 @@
         "TotalOrders": 3,
         "TotalQuantity": 520.0,
         "ProductTypes": [
-            "Product_6",
-            NaN
+            "Product_6"
         ]
     },
     {
@@ -1834,7 +1761,6 @@
         "TotalOrders": 8,
         "TotalQuantity": 20548.0,
         "ProductTypes": [
-            NaN,
             "Product_149",
             "Product_135",
             "Product_146"
@@ -1865,8 +1791,7 @@
         "ProductTypes": [
             "Product_4",
             "Product_72",
-            "Product_3",
-            NaN
+            "Product_3"
         ]
     },
     {
@@ -1875,7 +1800,6 @@
         "TotalQuantity": 4898.0,
         "ProductTypes": [
             "Product_62",
-            NaN,
             "Product_4",
             "Product_130",
             "Product_72"
@@ -1914,7 +1838,6 @@
         "TotalQuantity": 14287.4,
         "ProductTypes": [
             "Product_18",
-            NaN,
             "Product_60",
             "Product_130",
             "Product_72",
@@ -1950,7 +1873,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 4445.2,
         "ProductTypes": [
-            NaN,
             "Product_14",
             "Product_6",
             "Product_97",
@@ -1985,7 +1907,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 5856.0,
         "ProductTypes": [
-            NaN,
             "Product_4"
         ]
     },
@@ -2013,7 +1934,6 @@
         "ProductTypes": [
             "Product_72",
             "Product_4",
-            NaN,
             "Product_18"
         ]
     },
@@ -2102,8 +2022,7 @@
             "Product_6",
             "Product_4",
             "Product_62",
-            "Product_9",
-            NaN
+            "Product_9"
         ]
     },
     {
@@ -2140,8 +2059,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 44.0,
         "ProductTypes": [
-            "Product_94",
-            NaN
+            "Product_94"
         ]
     },
     {
@@ -2185,7 +2103,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 2390.1,
         "ProductTypes": [
-            NaN,
             "Product_4"
         ]
     },
@@ -2244,8 +2161,7 @@
         "TotalQuantity": 494.6,
         "ProductTypes": [
             "Product_8",
-            "Product_4",
-            NaN
+            "Product_4"
         ]
     },
     {
@@ -2269,7 +2185,6 @@
         "ProductTypes": [
             "Product_9",
             "Product_71",
-            NaN,
             "Product_31",
             "Product_107",
             "Product_18",
@@ -2299,7 +2214,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 6317.0,
         "ProductTypes": [
-            NaN,
             "Product_94",
             "Product_71",
             "Product_105"
@@ -2391,7 +2305,6 @@
         "TotalQuantity": 13648.0,
         "ProductTypes": [
             "Product_23",
-            NaN,
             "Product_131",
             "Product_38",
             "Product_71"
@@ -2428,7 +2341,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 24940.0,
         "ProductTypes": [
-            NaN,
             "Product_60"
         ]
     },
@@ -2437,7 +2349,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 400.0,
         "ProductTypes": [
-            NaN,
             "Product_6"
         ]
     },
@@ -2470,9 +2381,7 @@
         "OrderDate": "2021-07-10",
         "TotalOrders": 1,
         "TotalQuantity": 2434.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2021-07-12",
@@ -2553,7 +2462,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 1690.0,
         "ProductTypes": [
-            NaN,
             "Product_38",
             "Product_11",
             "Product_4"
@@ -2572,8 +2480,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 185.0,
         "ProductTypes": [
-            "Product_8",
-            NaN
+            "Product_8"
         ]
     },
     {
@@ -2607,8 +2514,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 220.0,
         "ProductTypes": [
-            "Product_38",
-            NaN
+            "Product_38"
         ]
     },
     {
@@ -2618,8 +2524,7 @@
         "ProductTypes": [
             "Product_142",
             "Product_8",
-            "Product_38",
-            NaN
+            "Product_38"
         ]
     },
     {
@@ -2646,8 +2551,7 @@
             "Product_6",
             "Product_9",
             "Product_143",
-            "Product_104",
-            NaN
+            "Product_104"
         ]
     },
     {
@@ -2655,7 +2559,6 @@
         "TotalOrders": 8,
         "TotalQuantity": 62254.0,
         "ProductTypes": [
-            NaN,
             "Product_131",
             "Product_65",
             "Product_135",
@@ -2711,8 +2614,7 @@
         "TotalQuantity": 3498.7,
         "ProductTypes": [
             "Product_122",
-            "Product_38",
-            NaN
+            "Product_38"
         ]
     },
     {
@@ -2799,9 +2701,7 @@
         "OrderDate": "2021-08-30",
         "TotalOrders": 1,
         "TotalQuantity": 40.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2021-08-31",
@@ -2851,7 +2751,6 @@
         "TotalOrders": 9,
         "TotalQuantity": 58760.0,
         "ProductTypes": [
-            NaN,
             "Product_80",
             "Product_131",
             "Product_60",
@@ -2863,7 +2762,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 35949.0,
         "ProductTypes": [
-            NaN,
             "Product_139",
             "Product_4"
         ]
@@ -2894,7 +2792,6 @@
         "ProductTypes": [
             "Product_74",
             "Product_138",
-            NaN,
             "Product_11",
             "Product_80",
             "Product_4"
@@ -2916,7 +2813,6 @@
         "TotalQuantity": 9267.0,
         "ProductTypes": [
             "Product_114",
-            NaN,
             "Product_4",
             "Product_69",
             "Product_18"
@@ -2935,9 +2831,7 @@
         "OrderDate": "2021-09-25",
         "TotalOrders": 1,
         "TotalQuantity": 20.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2021-09-27",
@@ -2953,7 +2847,6 @@
         "TotalQuantity": 1660.0,
         "ProductTypes": [
             "Product_6",
-            NaN,
             "Product_62"
         ]
     },
@@ -2961,9 +2854,7 @@
         "OrderDate": "2021-10-06",
         "TotalOrders": 1,
         "TotalQuantity": 1700.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2021-10-07",
@@ -2971,8 +2862,7 @@
         "TotalQuantity": 2937.0,
         "ProductTypes": [
             "Product_135",
-            "Product_4",
-            NaN
+            "Product_4"
         ]
     },
     {
@@ -3016,7 +2906,6 @@
         "TotalQuantity": 47590.0,
         "ProductTypes": [
             "Product_80",
-            NaN,
             "Product_103"
         ]
     },
@@ -3026,7 +2915,6 @@
         "TotalQuantity": 8974.0,
         "ProductTypes": [
             "Product_62",
-            NaN,
             "Product_6",
             "Product_101",
             "Product_18",
@@ -3041,7 +2929,6 @@
             "Product_112",
             "Product_6",
             "Product_43",
-            NaN,
             "Product_4"
         ]
     },
@@ -3050,7 +2937,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 3920.0,
         "ProductTypes": [
-            NaN,
             "Product_4"
         ]
     },
@@ -3059,7 +2945,6 @@
         "TotalOrders": 9,
         "TotalQuantity": 20570.0,
         "ProductTypes": [
-            NaN,
             "Product_132",
             "Product_3",
             "Product_6",
@@ -3100,8 +2985,7 @@
         "ProductTypes": [
             "Product_3",
             "Product_131",
-            "Product_122",
-            NaN
+            "Product_122"
         ]
     },
     {
@@ -3120,7 +3004,6 @@
         "TotalQuantity": 12940.0,
         "ProductTypes": [
             "Product_74",
-            NaN,
             "Product_130",
             "Product_14",
             "Product_4"
@@ -3139,9 +3022,7 @@
         "OrderDate": "2021-11-03",
         "TotalOrders": 1,
         "TotalQuantity": 2400.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2021-11-05",
@@ -3150,7 +3031,6 @@
         "ProductTypes": [
             "Product_6",
             "Product_116",
-            NaN,
             "Product_30",
             "Product_69"
         ]
@@ -3162,7 +3042,6 @@
         "ProductTypes": [
             "Product_4",
             "Product_38",
-            NaN,
             "Product_36"
         ]
     },
@@ -3171,7 +3050,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 7505.4,
         "ProductTypes": [
-            NaN,
             "Product_72",
             "Product_70",
             "Product_4"
@@ -3190,7 +3068,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 16288.0,
         "ProductTypes": [
-            NaN,
             "Product_23"
         ]
     },
@@ -3217,9 +3094,7 @@
         "OrderDate": "2021-11-15",
         "TotalOrders": 1,
         "TotalQuantity": 3250.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2021-11-16",
@@ -3252,7 +3127,6 @@
         "TotalQuantity": 6975.0,
         "ProductTypes": [
             "Product_3",
-            NaN,
             "Product_6"
         ]
     },
@@ -3279,8 +3153,7 @@
         "TotalOrders": 4,
         "TotalQuantity": 5060.0,
         "ProductTypes": [
-            "Product_44",
-            NaN
+            "Product_44"
         ]
     },
     {
@@ -3300,7 +3173,6 @@
             "Product_6",
             "Product_48",
             "Product_104",
-            NaN,
             "Product_4"
         ]
     },
@@ -3376,8 +3248,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 7340.0,
         "ProductTypes": [
-            "Product_23",
-            NaN
+            "Product_23"
         ]
     },
     {
@@ -3385,7 +3256,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 4165.0,
         "ProductTypes": [
-            NaN,
             "Product_112",
             "Product_4"
         ]
@@ -3427,8 +3297,7 @@
         "TotalQuantity": 5093.0,
         "ProductTypes": [
             "Product_23",
-            "Product_71",
-            NaN
+            "Product_71"
         ]
     },
     {
@@ -3464,7 +3333,6 @@
         "TotalQuantity": 3647.0,
         "ProductTypes": [
             "Product_71",
-            NaN,
             "Product_4"
         ]
     },
@@ -3514,9 +3382,7 @@
         "OrderDate": "2022-01-04",
         "TotalOrders": 1,
         "TotalQuantity": 700.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-01-05",
@@ -3532,7 +3398,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 1260.0,
         "ProductTypes": [
-            NaN,
             "Product_105"
         ]
     },
@@ -3549,8 +3414,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 295.0,
         "ProductTypes": [
-            "Product_4",
-            NaN
+            "Product_4"
         ]
     },
     {
@@ -3632,8 +3496,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 278.0,
         "ProductTypes": [
-            "Product_72",
-            NaN
+            "Product_72"
         ]
     },
     {
@@ -3650,7 +3513,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 5884.0,
         "ProductTypes": [
-            NaN,
             "Product_14"
         ]
     },
@@ -3658,9 +3520,7 @@
         "OrderDate": "2022-01-24",
         "TotalOrders": 1,
         "TotalQuantity": 2305.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-02-10",
@@ -3677,7 +3537,6 @@
         "ProductTypes": [
             "Product_80",
             "Product_40",
-            NaN,
             "Product_3",
             "Product_74",
             "Product_122",
@@ -3692,7 +3551,6 @@
         "TotalQuantity": 7669.0,
         "ProductTypes": [
             "Product_99",
-            NaN,
             "Product_48",
             "Product_102",
             "Product_11",
@@ -3731,7 +3589,6 @@
         "TotalQuantity": 7009.0,
         "ProductTypes": [
             "Product_40",
-            NaN,
             "Product_6",
             "Product_68",
             "Product_14"
@@ -3760,7 +3617,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 5848.0,
         "ProductTypes": [
-            NaN,
             "Product_6"
         ]
     },
@@ -3769,8 +3625,7 @@
         "TotalOrders": 5,
         "TotalQuantity": 637.0,
         "ProductTypes": [
-            "Product_6",
-            NaN
+            "Product_6"
         ]
     },
     {
@@ -3786,9 +3641,7 @@
         "OrderDate": "2022-02-25",
         "TotalOrders": 1,
         "TotalQuantity": 11624.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-02-26",
@@ -3859,7 +3712,6 @@
             "Product_74",
             "Product_80",
             "Product_6",
-            NaN,
             "Product_120",
             "Product_14",
             "Product_4",
@@ -3918,7 +3770,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 25883.0,
         "ProductTypes": [
-            NaN,
             "Product_23",
             "Product_4"
         ]
@@ -3937,7 +3788,6 @@
         "TotalQuantity": 350.5,
         "ProductTypes": [
             "Product_94",
-            NaN,
             "Product_38",
             "Product_72"
         ]
@@ -3949,8 +3799,7 @@
         "ProductTypes": [
             "Product_72",
             "Product_69",
-            "Product_112",
-            NaN
+            "Product_112"
         ]
     },
     {
@@ -4005,7 +3854,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 4780.0,
         "ProductTypes": [
-            NaN,
             "Product_31"
         ]
     },
@@ -4104,7 +3952,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 6551.0,
         "ProductTypes": [
-            NaN,
             "Product_4",
             "Product_77",
             "Product_70",
@@ -4182,7 +4029,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 3928.0,
         "ProductTypes": [
-            NaN,
             "Product_72"
         ]
     },
@@ -4251,7 +4097,6 @@
             "Product_116",
             "Product_72",
             "Product_117",
-            NaN,
             "Product_70"
         ]
     },
@@ -4282,7 +4127,6 @@
         "TotalQuantity": 8770.0,
         "ProductTypes": [
             "Product_38",
-            NaN,
             "Product_4"
         ]
     },
@@ -4322,7 +4166,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 6012.9,
         "ProductTypes": [
-            NaN,
             "Product_4",
             "Product_72"
         ]
@@ -4395,7 +4238,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 4335.0,
         "ProductTypes": [
-            NaN,
             "Product_114"
         ]
     },
@@ -4412,7 +4254,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 1161.0,
         "ProductTypes": [
-            NaN,
             "Product_14"
         ]
     },
@@ -4422,7 +4263,6 @@
         "TotalQuantity": 384.0,
         "ProductTypes": [
             "Product_14",
-            NaN,
             "Product_94",
             "Product_7",
             "Product_68",
@@ -4500,7 +4340,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 233.0,
         "ProductTypes": [
-            NaN,
             "Product_6"
         ]
     },
@@ -4597,7 +4436,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 1402.0,
         "ProductTypes": [
-            NaN,
             "Product_38",
             "Product_71"
         ]
@@ -4640,7 +4478,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 1429.0,
         "ProductTypes": [
-            NaN,
             "Product_14"
         ]
     },
@@ -4684,7 +4521,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 1644.0,
         "ProductTypes": [
-            NaN,
             "Product_111",
             "Product_6"
         ]
@@ -4739,7 +4575,6 @@
         "TotalQuantity": 1252.0,
         "ProductTypes": [
             "Product_108",
-            NaN,
             "Product_6"
         ]
     },
@@ -4776,9 +4611,7 @@
         "OrderDate": "2022-07-28",
         "TotalOrders": 1,
         "TotalQuantity": 3500.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-07-29",
@@ -4822,8 +4655,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 3220.0,
         "ProductTypes": [
-            "Product_67",
-            NaN
+            "Product_67"
         ]
     },
     {
@@ -4831,7 +4663,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 19300.0,
         "ProductTypes": [
-            NaN,
             "Product_74"
         ]
     },
@@ -4857,8 +4688,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 6210.0,
         "ProductTypes": [
-            "Product_103",
-            NaN
+            "Product_103"
         ]
     },
     {
@@ -4874,7 +4704,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 3131.0,
         "ProductTypes": [
-            NaN,
             "Product_23"
         ]
     },
@@ -4923,7 +4752,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 13868.0,
         "ProductTypes": [
-            NaN,
             "Product_4"
         ]
     },
@@ -4931,9 +4759,7 @@
         "OrderDate": "2022-08-25",
         "TotalOrders": 1,
         "TotalQuantity": 1350.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-08-26",
@@ -4961,7 +4787,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 2689.9,
         "ProductTypes": [
-            NaN,
             "Product_85",
             "Product_9"
         ]
@@ -4996,16 +4821,13 @@
         "OrderDate": "2022-09-07",
         "TotalOrders": 1,
         "TotalQuantity": 22230.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-09-08",
         "TotalOrders": 4,
         "TotalQuantity": 6560.2,
         "ProductTypes": [
-            NaN,
             "Product_108",
             "Product_40",
             "Product_14"
@@ -5016,7 +4838,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 17523.3,
         "ProductTypes": [
-            NaN,
             "Product_3",
             "Product_9",
             "Product_66"
@@ -5034,9 +4855,7 @@
         "OrderDate": "2022-09-13",
         "TotalOrders": 1,
         "TotalQuantity": 1536.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-09-14",
@@ -5051,7 +4870,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 1958.0,
         "ProductTypes": [
-            NaN,
             "Product_107"
         ]
     },
@@ -5096,7 +4914,6 @@
         "TotalOrders": 10,
         "TotalQuantity": 45121.0,
         "ProductTypes": [
-            NaN,
             "Product_3",
             "Product_23"
         ]
@@ -5106,7 +4923,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 600.0,
         "ProductTypes": [
-            NaN,
             "Product_11"
         ]
     },
@@ -5132,16 +4948,13 @@
         "OrderDate": "2022-09-29",
         "TotalOrders": 2,
         "TotalQuantity": 10045.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-10-05",
         "TotalOrders": 10,
         "TotalQuantity": 34611.0,
         "ProductTypes": [
-            NaN,
             "Product_6",
             "Product_14",
             "Product_36",
@@ -5188,7 +5001,6 @@
         "TotalOrders": 15,
         "TotalQuantity": 23397.0,
         "ProductTypes": [
-            NaN,
             "Product_86",
             "Product_45",
             "Product_70",
@@ -5206,7 +5018,6 @@
         "TotalQuantity": 17607.0,
         "ProductTypes": [
             "Product_94",
-            NaN,
             "Product_4",
             "Product_103",
             "Product_3",
@@ -5227,7 +5038,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 24583.0,
         "ProductTypes": [
-            NaN,
             "Product_19"
         ]
     },
@@ -5253,7 +5063,6 @@
         "TotalQuantity": 30865.0,
         "ProductTypes": [
             "Product_73",
-            NaN,
             "Product_13",
             "Product_11",
             "Product_38"
@@ -5282,9 +5091,7 @@
         "OrderDate": "2022-10-26",
         "TotalOrders": 1,
         "TotalQuantity": 5520.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-10-27",
@@ -5317,7 +5124,6 @@
         "TotalOrders": 12,
         "TotalQuantity": 44937.0,
         "ProductTypes": [
-            NaN,
             "Product_29",
             "Product_14",
             "Product_101",
@@ -5350,7 +5156,6 @@
         "TotalQuantity": 4709.0,
         "ProductTypes": [
             "Product_53",
-            NaN,
             "Product_57"
         ]
     },
@@ -5384,7 +5189,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 3377.0,
         "ProductTypes": [
-            NaN,
             "Product_6"
         ]
     },
@@ -5393,7 +5197,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 9118.0,
         "ProductTypes": [
-            NaN,
             "Product_3",
             "Product_64"
         ]
@@ -5447,7 +5250,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 10740.0,
         "ProductTypes": [
-            NaN,
             "Product_13"
         ]
     },
@@ -5467,7 +5269,6 @@
         "ProductTypes": [
             "Product_3",
             "Product_6",
-            NaN,
             "Product_4"
         ]
     },
@@ -5506,7 +5307,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 1193.0,
         "ProductTypes": [
-            NaN,
             "Product_4",
             "Product_70"
         ]
@@ -5536,7 +5336,6 @@
             "Product_98",
             "Product_53",
             "Product_3",
-            NaN,
             "Product_13",
             "Product_71"
         ]
@@ -5620,9 +5419,7 @@
         "OrderDate": "2022-12-17",
         "TotalOrders": 1,
         "TotalQuantity": 9720.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2022-12-20",
@@ -5653,7 +5450,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 35009.0,
         "ProductTypes": [
-            NaN,
             "Product_29"
         ]
     },
@@ -5670,7 +5466,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 9100.0,
         "ProductTypes": [
-            NaN,
             "Product_32",
             "Product_31"
         ]
@@ -5713,7 +5508,6 @@
         "TotalOrders": 6,
         "TotalQuantity": 21066.0,
         "ProductTypes": [
-            NaN,
             "Product_13",
             "Product_14"
         ]
@@ -5751,7 +5545,6 @@
         "TotalOrders": 23,
         "TotalQuantity": 54937.0,
         "ProductTypes": [
-            NaN,
             "Product_29",
             "Product_74",
             "Product_3",
@@ -5815,7 +5608,6 @@
         "TotalQuantity": 8324.0,
         "ProductTypes": [
             "Product_74",
-            NaN,
             "Product_4"
         ]
     },
@@ -5878,8 +5670,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 3746.0,
         "ProductTypes": [
-            "Product_4",
-            NaN
+            "Product_4"
         ]
     },
     {
@@ -5929,7 +5720,6 @@
         "ProductTypes": [
             "Product_29",
             "Product_74",
-            NaN,
             "Product_69"
         ]
     },
@@ -5975,7 +5765,6 @@
         "TotalOrders": 10,
         "TotalQuantity": 31617.0,
         "ProductTypes": [
-            NaN,
             "Product_80",
             "Product_18",
             "Product_92",
@@ -5988,9 +5777,7 @@
         "OrderDate": "2023-03-26",
         "TotalOrders": 2,
         "TotalQuantity": 9474.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2023-03-27",
@@ -6007,7 +5794,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 24374.0,
         "ProductTypes": [
-            NaN,
             "Product_3",
             "Product_34",
             "Product_64",
@@ -6029,7 +5815,6 @@
         "TotalOrders": 10,
         "TotalQuantity": 25971.0,
         "ProductTypes": [
-            NaN,
             "Product_87",
             "Product_6",
             "Product_4",
@@ -6051,7 +5836,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 4025.0,
         "ProductTypes": [
-            NaN,
             "Product_13",
             "Product_18"
         ]
@@ -6113,7 +5897,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 10490.0,
         "ProductTypes": [
-            NaN,
             "Product_14",
             "Product_77"
         ]
@@ -6158,7 +5941,6 @@
         "TotalQuantity": 7110.0,
         "ProductTypes": [
             "Product_73",
-            NaN,
             "Product_14"
         ]
     },
@@ -6200,7 +5982,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 3986.0,
         "ProductTypes": [
-            NaN,
             "Product_40"
         ]
     },
@@ -6230,7 +6011,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 6870.0,
         "ProductTypes": [
-            NaN,
             "Product_14",
             "Product_13"
         ]
@@ -6324,7 +6104,6 @@
         "TotalQuantity": 16936.0,
         "ProductTypes": [
             "Product_74",
-            NaN,
             "Product_80",
             "Product_8"
         ]
@@ -6361,7 +6140,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 16826.0,
         "ProductTypes": [
-            NaN,
             "Product_55",
             "Product_62",
             "Product_66",
@@ -6482,7 +6260,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 3120.0,
         "ProductTypes": [
-            NaN,
             "Product_14",
             "Product_75"
         ]
@@ -6529,7 +6306,6 @@
         "TotalOrders": 2,
         "TotalQuantity": 10723.0,
         "ProductTypes": [
-            NaN,
             "Product_13"
         ]
     },
@@ -6676,7 +6452,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 79580.0,
         "ProductTypes": [
-            NaN,
             "Product_29",
             "Product_27"
         ]
@@ -6723,7 +6498,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 5986.0,
         "ProductTypes": [
-            NaN,
             "Product_13",
             "Product_34"
         ]
@@ -6802,7 +6576,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 8994.0,
         "ProductTypes": [
-            NaN,
             "Product_34",
             "Product_57",
             "Product_4"
@@ -6841,7 +6614,6 @@
         "ProductTypes": [
             "Product_3",
             "Product_49",
-            NaN,
             "Product_33"
         ]
     },
@@ -6850,7 +6622,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 16093.0,
         "ProductTypes": [
-            NaN,
             "Product_18"
         ]
     },
@@ -6995,7 +6766,6 @@
         "TotalQuantity": 17783.0,
         "ProductTypes": [
             "Product_3",
-            NaN,
             "Product_64",
             "Product_4"
         ]
@@ -7078,7 +6848,6 @@
         "TotalOrders": 5,
         "TotalQuantity": 25156.0,
         "ProductTypes": [
-            NaN,
             "Product_53",
             "Product_54"
         ]
@@ -7114,8 +6883,7 @@
         "TotalQuantity": 11459.4,
         "ProductTypes": [
             "Product_13",
-            "Product_58",
-            NaN
+            "Product_58"
         ]
     },
     {
@@ -7159,7 +6927,6 @@
         "ProductTypes": [
             "Product_47",
             "Product_49",
-            NaN,
             "Product_3",
             "Product_13"
         ]
@@ -7169,7 +6936,6 @@
         "TotalOrders": 3,
         "TotalQuantity": 9251.0,
         "ProductTypes": [
-            NaN,
             "Product_3",
             "Product_13"
         ]
@@ -7187,7 +6953,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 5900.0,
         "ProductTypes": [
-            NaN,
             "Product_13",
             "Product_52"
         ]
@@ -7197,7 +6962,6 @@
         "TotalOrders": 13,
         "TotalQuantity": 54224.0,
         "ProductTypes": [
-            NaN,
             "Product_29",
             "Product_50",
             "Product_19",
@@ -7289,7 +7053,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 44458.0,
         "ProductTypes": [
-            NaN,
             "Product_10"
         ]
     },
@@ -7346,7 +7109,6 @@
         "TotalOrders": 8,
         "TotalQuantity": 35306.63,
         "ProductTypes": [
-            NaN,
             "Product_27",
             "Product_3",
             "Product_4"
@@ -7384,7 +7146,6 @@
         "TotalOrders": 4,
         "TotalQuantity": 19693.0,
         "ProductTypes": [
-            NaN,
             "Product_26",
             "Product_29",
             "Product_35"
@@ -7433,7 +7194,6 @@
         "TotalQuantity": 73618.0,
         "ProductTypes": [
             "Product_19",
-            NaN,
             "Product_25",
             "Product_13"
         ]
@@ -7443,7 +7203,6 @@
         "TotalOrders": 7,
         "TotalQuantity": 18738.0,
         "ProductTypes": [
-            NaN,
             "Product_37",
             "Product_38",
             "Product_39",
@@ -7456,7 +7215,6 @@
         "TotalQuantity": 72822.0,
         "ProductTypes": [
             "Product_17",
-            NaN,
             "Product_33",
             "Product_19",
             "Product_22",
@@ -7470,7 +7228,6 @@
         "TotalQuantity": 16352.0,
         "ProductTypes": [
             "Product_3",
-            NaN,
             "Product_5",
             "Product_6",
             "Product_13"
@@ -7482,7 +7239,6 @@
         "TotalQuantity": 49366.0,
         "ProductTypes": [
             "Product_14",
-            NaN,
             "Product_13",
             "Product_34"
         ]
@@ -7501,7 +7257,6 @@
         "TotalQuantity": 344515.0,
         "ProductTypes": [
             "Product_13",
-            NaN,
             "Product_25",
             "Product_34",
             "Product_4"
@@ -7522,7 +7277,6 @@
         "ProductTypes": [
             "Product_10",
             "Product_31",
-            NaN,
             "Product_20"
         ]
     },
@@ -7543,8 +7297,7 @@
         "ProductTypes": [
             "Product_7",
             "Product_3",
-            "Product_30",
-            NaN
+            "Product_30"
         ]
     },
     {
@@ -7600,7 +7353,6 @@
         "ProductTypes": [
             "Product_6",
             "Product_19",
-            NaN,
             "Product_24"
         ]
     },
@@ -7610,8 +7362,7 @@
         "TotalQuantity": 4123.0,
         "ProductTypes": [
             "Product_6",
-            "Product_4",
-            NaN
+            "Product_4"
         ]
     },
     {
@@ -7663,8 +7414,7 @@
         "TotalOrders": 5,
         "TotalQuantity": 17051.0,
         "ProductTypes": [
-            "Product_19",
-            NaN
+            "Product_19"
         ]
     },
     {
@@ -7688,8 +7438,7 @@
         "TotalOrders": 2,
         "TotalQuantity": 2795.0,
         "ProductTypes": [
-            "Product_18",
-            NaN
+            "Product_18"
         ]
     },
     {
@@ -7712,9 +7461,7 @@
         "OrderDate": "2023-12-21",
         "TotalOrders": 1,
         "TotalQuantity": 11050.0,
-        "ProductTypes": [
-            NaN
-        ]
+        "ProductTypes": []
     },
     {
         "OrderDate": "2023-12-22",
@@ -7749,8 +7496,7 @@
         "TotalQuantity": 4400.0,
         "ProductTypes": [
             "Product_11",
-            "Product_12",
-            NaN
+            "Product_12"
         ]
     },
     {
@@ -7769,7 +7515,6 @@
         "ProductTypes": [
             "Product_1",
             "Product_3",
-            NaN,
             "Product_5",
             "Product_22"
         ]
